@@ -1,0 +1,7 @@
+Asterisk AGI applications to provide multiple conference rooms 
+distributing users between the rooms and to create a private room 
+dinamically over request.
+
+bestroom - returns the best room to connect a new user
+nextroom - returns the next room cycling
+privateroom - create a room for two users only
